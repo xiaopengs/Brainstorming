@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-11T14:12:51.947Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="LOBOEaQaGSOgKgMq8VDK" version="13.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-11T14:14:24.051Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="6WWNe7LU5tSU4sIboAn0" version="13.2.1" type="github">
   <diagram id="amrAe1FXWB98-2LjFH7b" name="Page-1">
     <mxGraphModel dx="1765" dy="997" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -22,6 +22,11 @@
         </mxCell>
         <mxCell id="fQ577wyoKTEt6M08ta1X-117" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fQ577wyoKTEt6M08ta1X-19" target="fQ577wyoKTEt6M08ta1X-116">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fQ577wyoKTEt6M08ta1X-225" value="退出直播间" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fQ577wyoKTEt6M08ta1X-117">
+          <mxGeometry x="-0.0909" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="fQ577wyoKTEt6M08ta1X-19" value="播放层" style="shape=mxgraph.sysml.compState;align=left;verticalAlign=top;spacingTop=-3;spacingLeft=18;strokeWidth=1;recursiveResize=0;" vertex="1" parent="1">
           <mxGeometry x="82" y="89" width="746" height="722" as="geometry" />
