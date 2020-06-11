@@ -1,1 +1,34 @@
-<mxfile host="app.diagrams.net" modified="2020-06-10T13:28:24.934Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" version="13.2.1" etag="1Ga8vz4nff3KGPQ586ao" type="github"><diagram id="Lgi-VTkNLRSRakI04hkZ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-06-11T01:14:22.920Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="0Mo_Vn302ip52g7_Qc-6" version="13.2.1" type="github">
+  <diagram id="Lgi-VTkNLRSRakI04hkZ" name="Page-1">
+    <mxGraphModel dx="2046" dy="1027" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="GTwo-jpA5W4Ik4ZYs9SP-2" value="&lt;span&gt;Remote Data Source&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="100" y="580" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GTwo-jpA5W4Ik4ZYs9SP-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="GTwo-jpA5W4Ik4ZYs9SP-3" target="GTwo-jpA5W4Ik4ZYs9SP-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GTwo-jpA5W4Ik4ZYs9SP-3" value="Repository" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="110" y="480" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GTwo-jpA5W4Ik4ZYs9SP-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="GTwo-jpA5W4Ik4ZYs9SP-4" target="GTwo-jpA5W4Ik4ZYs9SP-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GTwo-jpA5W4Ik4ZYs9SP-4" value="&lt;span&gt;ViewModel&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="95" y="360" width="170" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="GTwo-jpA5W4Ik4ZYs9SP-5" value="LiveData" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="169" y="406" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GTwo-jpA5W4Ik4ZYs9SP-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GTwo-jpA5W4Ik4ZYs9SP-9" target="GTwo-jpA5W4Ik4ZYs9SP-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GTwo-jpA5W4Ik4ZYs9SP-9" value="CommentActionSheet" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="90" y="250" width="180" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
