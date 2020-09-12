@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-09-12T10:36:50.225Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="cGolVY9PyNLC9qkkEzL0" version="13.6.6" type="github">
+<mxfile host="www.draw.io" modified="2020-09-12T10:38:38.409Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="JBK7XRJiIx8yOxnSvaex" version="13.6.6" type="github">
   <diagram name="Page-1" id="d9b1e647-80fa-b4a2-5024-87a742678bcc">
     <mxGraphModel dx="2046" dy="1027" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -48,44 +48,41 @@
         <mxCell id="FFcQqnqTQvhnuVRR3oSx-16" value="&lt;font style=&quot;font-size: 18px&quot;&gt;编码&lt;/font&gt;" style="shape=step;whiteSpace=wrap;html=1;fontSize=28;fillColor=#0080FF;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="400" y="310" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FFcQqnqTQvhnuVRR3oSx-34" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="30" y="440" width="320" height="300" as="geometry" />
+        <mxCell id="FFcQqnqTQvhnuVRR3oSx-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="440" width="320" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="FFcQqnqTQvhnuVRR3oSx-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="FFcQqnqTQvhnuVRR3oSx-34">
-          <mxGeometry width="320" height="250" as="geometry" />
+        <mxCell id="FFcQqnqTQvhnuVRR3oSx-19" value="摄像头采集" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" vertex="1" parent="1">
+          <mxGeometry x="50" y="490" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FFcQqnqTQvhnuVRR3oSx-19" value="摄像头采集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="FFcQqnqTQvhnuVRR3oSx-34">
-          <mxGeometry x="20" y="50" width="120" height="30" as="geometry" />
+        <mxCell id="FFcQqnqTQvhnuVRR3oSx-20" value="屏幕录制" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" vertex="1" parent="1">
+          <mxGeometry x="50" y="540" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FFcQqnqTQvhnuVRR3oSx-20" value="屏幕录制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="FFcQqnqTQvhnuVRR3oSx-34">
-          <mxGeometry x="20" y="100" width="120" height="30" as="geometry" />
+        <mxCell id="FFcQqnqTQvhnuVRR3oSx-21" value="原始视频" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" vertex="1" parent="1">
+          <mxGeometry x="50" y="590" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FFcQqnqTQvhnuVRR3oSx-21" value="原始视频" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="FFcQqnqTQvhnuVRR3oSx-34">
-          <mxGeometry x="20" y="150" width="120" height="30" as="geometry" />
+        <mxCell id="FFcQqnqTQvhnuVRR3oSx-22" value="自定义采集" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" vertex="1" parent="1">
+          <mxGeometry x="50" y="640" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FFcQqnqTQvhnuVRR3oSx-22" value="自定义采集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="FFcQqnqTQvhnuVRR3oSx-34">
-          <mxGeometry x="20" y="200" width="120" height="30" as="geometry" />
+        <mxCell id="FFcQqnqTQvhnuVRR3oSx-25" value="图像" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="460" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="FFcQqnqTQvhnuVRR3oSx-25" value="图像" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="FFcQqnqTQvhnuVRR3oSx-34">
-          <mxGeometry x="50" y="20" width="40" height="20" as="geometry" />
+        <mxCell id="FFcQqnqTQvhnuVRR3oSx-26" value="麦克风采集" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" vertex="1" parent="1">
+          <mxGeometry x="200" y="490" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FFcQqnqTQvhnuVRR3oSx-26" value="麦克风采集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="FFcQqnqTQvhnuVRR3oSx-34">
-          <mxGeometry x="170" y="50" width="120" height="30" as="geometry" />
+        <mxCell id="FFcQqnqTQvhnuVRR3oSx-27" value="系统声音" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" vertex="1" parent="1">
+          <mxGeometry x="200" y="540" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FFcQqnqTQvhnuVRR3oSx-27" value="系统声音" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="FFcQqnqTQvhnuVRR3oSx-34">
-          <mxGeometry x="170" y="100" width="120" height="30" as="geometry" />
+        <mxCell id="FFcQqnqTQvhnuVRR3oSx-28" value="原始声音" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" vertex="1" parent="1">
+          <mxGeometry x="200" y="590" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FFcQqnqTQvhnuVRR3oSx-28" value="原始声音" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="FFcQqnqTQvhnuVRR3oSx-34">
-          <mxGeometry x="170" y="150" width="120" height="30" as="geometry" />
+        <mxCell id="FFcQqnqTQvhnuVRR3oSx-29" value="自定义输入" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" vertex="1" parent="1">
+          <mxGeometry x="200" y="640" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FFcQqnqTQvhnuVRR3oSx-29" value="自定义输入" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="FFcQqnqTQvhnuVRR3oSx-34">
-          <mxGeometry x="170" y="200" width="120" height="30" as="geometry" />
+        <mxCell id="FFcQqnqTQvhnuVRR3oSx-30" value="音频" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="235" y="460" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="FFcQqnqTQvhnuVRR3oSx-30" value="音频" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="FFcQqnqTQvhnuVRR3oSx-34">
-          <mxGeometry x="205" y="20" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="FFcQqnqTQvhnuVRR3oSx-33" value="SDK、OBS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="FFcQqnqTQvhnuVRR3oSx-34">
-          <mxGeometry y="250" width="320" height="50" as="geometry" />
+        <mxCell id="FFcQqnqTQvhnuVRR3oSx-33" value="SDK、OBS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="690" width="320" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
