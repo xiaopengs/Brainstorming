@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-09-12T10:39:28.547Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="jLgDzfms4NQ-vXynNXBS" version="13.6.6" type="github">
+<mxfile host="www.draw.io" modified="2020-09-12T10:47:55.363Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="BO2jBY0xCkv1YD6vZbNQ" version="13.6.6" type="github">
   <diagram name="Page-1" id="d9b1e647-80fa-b4a2-5024-87a742678bcc">
     <mxGraphModel dx="2046" dy="1027" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -42,6 +42,9 @@
         <mxCell id="57fe6abec08f04cb-1" value="&lt;font style=&quot;font-size: 18px&quot;&gt;采集&lt;/font&gt;" style="shape=step;whiteSpace=wrap;html=1;fontSize=28;fillColor=#0080FF;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="80" y="310" width="100" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="FFcQqnqTQvhnuVRR3oSx-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FFcQqnqTQvhnuVRR3oSx-15" target="FFcQqnqTQvhnuVRR3oSx-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FFcQqnqTQvhnuVRR3oSx-15" value="&lt;font style=&quot;font-size: 18px&quot;&gt;预处理&lt;/font&gt;" style="shape=step;whiteSpace=wrap;html=1;fontSize=28;fillColor=#0080FF;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="400" y="310" width="100" height="40" as="geometry" />
         </mxCell>
@@ -83,6 +86,42 @@
         </mxCell>
         <mxCell id="FFcQqnqTQvhnuVRR3oSx-33" value="SDK、OBS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="690" width="320" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FFcQqnqTQvhnuVRR3oSx-46" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="380" y="440" width="320" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="FFcQqnqTQvhnuVRR3oSx-35" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="FFcQqnqTQvhnuVRR3oSx-46">
+          <mxGeometry width="320" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="FFcQqnqTQvhnuVRR3oSx-36" value="美颜（人脸识别）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" vertex="1" parent="FFcQqnqTQvhnuVRR3oSx-46">
+          <mxGeometry x="25" y="50" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FFcQqnqTQvhnuVRR3oSx-37" value="水印" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" vertex="1" parent="FFcQqnqTQvhnuVRR3oSx-46">
+          <mxGeometry x="25" y="100" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FFcQqnqTQvhnuVRR3oSx-38" value="自定义滤镜" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" vertex="1" parent="FFcQqnqTQvhnuVRR3oSx-46">
+          <mxGeometry x="25" y="150" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FFcQqnqTQvhnuVRR3oSx-39" value="画质增强、模糊、极清等" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" vertex="1" parent="FFcQqnqTQvhnuVRR3oSx-46">
+          <mxGeometry x="25" y="200" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FFcQqnqTQvhnuVRR3oSx-40" value="图像" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="FFcQqnqTQvhnuVRR3oSx-46">
+          <mxGeometry x="55" y="20" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FFcQqnqTQvhnuVRR3oSx-41" value="混音" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" vertex="1" parent="FFcQqnqTQvhnuVRR3oSx-46">
+          <mxGeometry x="175" y="50" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FFcQqnqTQvhnuVRR3oSx-42" value="降噪" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" vertex="1" parent="FFcQqnqTQvhnuVRR3oSx-46">
+          <mxGeometry x="175" y="100" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FFcQqnqTQvhnuVRR3oSx-43" value="声音特效" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" vertex="1" parent="FFcQqnqTQvhnuVRR3oSx-46">
+          <mxGeometry x="175" y="150" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FFcQqnqTQvhnuVRR3oSx-44" value="快慢速等自定义处理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" vertex="1" parent="FFcQqnqTQvhnuVRR3oSx-46">
+          <mxGeometry x="175" y="200" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FFcQqnqTQvhnuVRR3oSx-45" value="音频" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="FFcQqnqTQvhnuVRR3oSx-46">
+          <mxGeometry x="210" y="20" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
