@@ -1,9 +1,18 @@
-<mxfile host="app.diagrams.net" modified="2020-09-16T01:22:29.623Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="RQgqZQmCCY3tSPf5Ukxq" version="13.6.10" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-16T16:13:37.870Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="8zgA4futDI3MQO09M8Yq" version="13.6.10" type="github">
   <diagram id="BchzcYx-EXeJBUkfAko1" name="Page-1">
-    <mxGraphModel dx="352" dy="352" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="388" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="znY3GRUaQ7Pz4pG9kvOZ-37" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="540" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="znY3GRUaQ7Pz4pG9kvOZ-36" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="540" width="520" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="znY3GRUaQ7Pz4pG9kvOZ-35" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="540" width="380" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="znY3GRUaQ7Pz4pG9kvOZ-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="znY3GRUaQ7Pz4pG9kvOZ-1" target="znY3GRUaQ7Pz4pG9kvOZ-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -71,6 +80,39 @@
         </mxCell>
         <mxCell id="znY3GRUaQ7Pz4pG9kvOZ-9" value="Video Render" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="450" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="znY3GRUaQ7Pz4pG9kvOZ-22" value="采集延时" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="50" y="555" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="znY3GRUaQ7Pz4pG9kvOZ-23" value="预处理延时" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="137.5" y="555" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="znY3GRUaQ7Pz4pG9kvOZ-24" value="编码延时" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="227.5" y="555" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="znY3GRUaQ7Pz4pG9kvOZ-25" value="网络传输延时" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="320" y="555" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="znY3GRUaQ7Pz4pG9kvOZ-27" value="转码" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="520" y="555" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="znY3GRUaQ7Pz4pG9kvOZ-28" value="网络链路" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="440" y="555" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="znY3GRUaQ7Pz4pG9kvOZ-29" value="网络传输延时" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="630" y="555" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="znY3GRUaQ7Pz4pG9kvOZ-31" value="解封装延时" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="737" y="555" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="znY3GRUaQ7Pz4pG9kvOZ-32" value="缓存策略延时" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="840" y="555" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="znY3GRUaQ7Pz4pG9kvOZ-33" value="解码延时" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="940" y="555" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="znY3GRUaQ7Pz4pG9kvOZ-34" value="渲染延时" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="555" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
